@@ -1,5 +1,5 @@
 {
     "root": "https://mit-blaze-dev.herokuapp.com/",
     "fin":"https://mit-fin.herokuapp.com/",
-    "ws":"ws://mit-blaze.herokuapp.com/"
+    "ws":"ws://mit-blaze-dev.herokuapp.com/"
 }
