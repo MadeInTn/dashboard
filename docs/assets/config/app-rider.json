@@ -1,6 +1,6 @@
 {
-    "root": "https://mit-blaze-linux.azurewebsites.net",
+    "root": "https://mit-blaze-dev.herokuapp.com/",
     "fin":"https://mit-fin.herokuapp.com/",
-    "ws":"ws://mit-blaze-linux.azurewebsites.net",
+    "ws":"ws://mit-blaze-dev.herokuapp.com/",
     "riderEarning": 90
 }
